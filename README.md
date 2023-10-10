@@ -11,4 +11,4 @@ Canvas
 Features:
 Image capturing with filters
 Video recording
-Gallery store In-browser
+Gallery store In-browser.
